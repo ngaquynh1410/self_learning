@@ -1,4 +1,4 @@
-> https://www.udemy.com/course/manual-and-automation-software-testing-with-help-of-chatgpt/learn/lecture/43343240#overview
+https://www.udemy.com/course/manual-and-automation-software-testing-with-help-of-chatgpt/learn/lecture/43343240#overview
 # Assistance with building the Test plan
 
 ## Nội dung chính:
