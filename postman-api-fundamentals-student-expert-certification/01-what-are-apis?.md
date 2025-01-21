@@ -16,21 +16,21 @@ Ví dụ: Các giải pháp SaaS (Software as a Service) như API thanh toán c�
 
 ### Who works with APIs
 - APIs không chỉ dành cho developers. Theo Postman's latest State of the API Report, gần như 1 nửa số lượng phản hồi trong khảo sát giữ những vị trí non-developer, ví dụ như management, solution architects, business and data analyst, educators và researchers.
-![alt text](image.png)
+![alt text](./photos/image.png)
 
 - Việc sử dụng API không chỉ giới hạn ở các ngành công nghệ và CNTT. Các phản hồi khảo sát trong cùng báo cáo cho thấy rằng trong khi các ngành công nghệ, kinh doanh, CNTT và ngân hàng chiếm phần lớn việc sử dụng API, bất kỳ ngành nào cũng có thể hưởng lợi từ sự tiện lợi mà API mang lại.
-![alt text](image-1.png)
+![alt text](./photos/image-1.png)
 
 ### Who benefits from APIs?
 Cuối cùng, mọi người đều được hưởng lợi từ API trực tiếp hoặc gián tiếp vì API giúp các quy trình hiệu quả hơn và kết nối các dịch vụ mà chúng ta yêu thích và tin tưởng. 
 
 ## APIs - A Digital Restaurant
 - Bạn hãy tưởng tượng APIs giống như người bồi bàn trong 1 nhà hàng, đóng vai trò trung gian giữa khách hàng và nhà bếp.
-![alt text](image-2.png)
+![alt text](./photos/image-2.png)
 
 - Khách hàng muốn món soup không cần phải đi vào trong bếp để nấu. Họ thậm chí còn không cần biết món soup được nấu như nào! Họ chỉ cần biết làm thế nào để order người bồi bàn về món soup, mong muốn người bồi bàn đó mang món soup cho họ.
 - API hoạt động theo cùng một cách, nhưng có tên gọi khác nhau cho những người tham gia. Thay vì súp, người yêu cầu có thể yêu cầu dữ liệu hoặc thực hiện một dịch vụ.
-![alt text](image-3.png)
+![alt text](./photos/image-3.png)
 
 ## Types of APIs
 ### Medium
