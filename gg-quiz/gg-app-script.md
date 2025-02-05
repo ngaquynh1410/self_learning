@@ -204,6 +204,7 @@ function createQuizFromJSON() {
 
 - Sau khi script chạy xong, hãy kiểm tra log (View -> Logs) để tìm URL của form mới được tạo hoặc vào GG Form check. 
 - Truy cập URL đó và ae sẽ thấy một bài quiz hoàn chỉnh với tất cả các câu hỏi và đáp án đã được tạo tự động từ file JSON của ae. Amazing phải không?
+![alt text](./gg-form.png)
 
 ## **Sử dụng AI để tạo câu hỏi JSON**
 
