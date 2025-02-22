@@ -1,1 +1,1 @@
-Link khoá học: 
+Link khoá học: https://www.udemy.com/course/hoc-ngon-ngu-lap-trinh-java-cho-tester/
