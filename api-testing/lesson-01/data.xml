@@ -1,0 +1,9 @@
+<name>Nguyen Van A</name>
+<age>20</age>
+<major>Computer Science</major>
+<gpa>3.7</gpa>
+<courses>
+    <course>Programming Fundamentals</course>
+    <course>Data Structures</course>
+    <course>Web Development</course>
+</courses>
