@@ -1,13 +1,13 @@
 # Lesson 02: REST API
 
-## 2. REST API?
+## 1. REST API?
 
 *   REST API là một kiến trúc cho việc xây dựng các ứng dụng web.
 *   Mô hình Client - Server:
     *   Client gửi **request** đến Server.
     *   Server xử lý request và trả về **response** cho Client.
 
-## 3. Thành phần của Request
+## 2. Thành phần của Request
 
 *   **Method:** Phương thức HTTP (GET, POST, PUT, DELETE, PATCH, HEAD, OPTIONS)
     *   GET: Lấy dữ liệu.
@@ -41,7 +41,7 @@
         *   Mã hóa dữ liệu nhạy cảm.
         *   Kiểm tra lỗi từ server.
 
-## 4. Thành phần của Response
+## 3. Thành phần của Response
 
 *   **Status Code:** Mã trạng thái HTTP (ví dụ: 200 OK, 404 Not Found, 500 Internal Server Error)
     *   1xx: Informational
@@ -75,7 +75,7 @@
         *   Nội dung
         *   Xử lý lỗi
         *   Hiệu năng
-## 5. Javascript - Getting Started
+## 4. Javascript - Getting Started
 
 *   Compiler online: [https://jsfiddle.net/](https://jsfiddle.net/)
 *   Khai báo biến:
