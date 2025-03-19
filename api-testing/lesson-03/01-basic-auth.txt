@@ -1,0 +1,6 @@
+1. Basic Auth Token: Basic https://httpbin.org/basic-auth/bba_academy/a101_class_secret
+2. 
+```
+curl --location 'https://httpbin.org/basic-auth/bba_academy/a101_class_secret' \
+--header 'Authorization: Basic YmJhX2FjYWRlbXk6YTEwMV9jbGFzc19zZWNyZXQ='
+```
